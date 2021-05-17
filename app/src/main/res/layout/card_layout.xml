@@ -38,7 +38,7 @@
             android:id="@+id/title"
             android:layout_width="match_parent"
             android:layout_height="20dp"
-            android:background="#4CAF50"
+            android:background="#E91E63"
             android:gravity="center_vertical"
             android:text="contact det"
             android:textColor="@android:color/white"
@@ -78,7 +78,7 @@
             android:layout_below="@+id/txtEmail"
             android:layout_marginTop="10dp"
             android:layout_toRightOf="@+id/thumbnail"
-            android:text="Address Goes Here"
+            android:text="+91 79-06592414"
             android:textColor="#EE000000"
             android:textSize="10dp" />
 
